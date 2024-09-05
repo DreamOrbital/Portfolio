@@ -18,6 +18,8 @@ CREATE TABLE video_game_sales (
     `last_update` VARCHAR(15)
 );
 
+LOAD DATA LOCAL INFILE "C:/Users/silas/Downloads/Video+Game+Sales/vgchartz2024.csv" INTO TABLE video_game_sales FIELDS TERMINATED BY ',' IGNORE 1 LINES;
+
 SELECT 
     *
 FROM
