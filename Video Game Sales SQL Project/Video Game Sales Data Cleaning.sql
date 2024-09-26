@@ -133,7 +133,8 @@ SET
     console = genre,
     genre = publisher
 WHERE
-    genre IN ('3DS' , 'All',
+    genre IN ('3DS' , 
+        'All',
         'DC',
         'DS',
         'GB',
