@@ -1,6 +1,6 @@
 # Portfolio
 Welcome to my portfolio.  
-I am Silas Sherburn a BSc physics student at the University of York. My portfolio contains 2 projects:  
+I am Silas Sherburn a BSc physics graduate from the University of York. My portfolio contains 2 projects:  
 - Solar Wind Research Project
   - A Jupyter notebook created for my BSc research project on the radial variation of the solar wind.
 - Video Game Sales SQL Project
